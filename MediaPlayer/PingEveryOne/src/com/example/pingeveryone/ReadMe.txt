@@ -1,0 +1,1 @@
+You will have to make a small change in the file "MainActivity.java" . Just replace the value of the "mac" variable defined in the "Ping" class with mac address of the wi-fi interface card of the device on which Server app has been installed.
